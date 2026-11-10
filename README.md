@@ -60,7 +60,7 @@ Desenvolvedor focado no interior de Santa Catarina (Navegantes), unindo tecnolog
 Trato as automações e os agentes de IA como parte da equipa: eu especifico as regras de negócio, decido a arquitetura e a segurança, e eles executam as tarefas repetitivas.
 
 <div align="center">
-  <img src="URL_TERMINADA_EM_.gif" width="100%" alt="Arquitetura de Pipeline e Automação" />
+  <img src="https://github.com/user-attachments/assets/ef937b26-c4ac-4efa-a844-d4e591a8ff83" width="100%" alt="Arquitetura de Pipeline e Automação" />
 </div>
 
 * **Desenvolvimento guiado por regras de negócio:** Foco em garantir que dados inválidos nunca cheguem ao banco de dados. Utilizo abstrações em POO (`abc.ABC`) e padrão DAO para encapsulamento seguro.
