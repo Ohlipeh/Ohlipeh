@@ -38,7 +38,7 @@ Desenvolvedor focado no interior de Santa Catarina (Navegantes), unindo tecnolog
 
 ---
 
-### 🚀 O que eu construo
+### <img src="https://api.iconify.design/ph/rocket-launch-fill.svg?color=%23FCA121" width="22" align="center" /> &nbsp; O que eu construo
 
 **Base em comum:** Python no backend, processamento automatizado de dados (Pandas), integrações de hardware/software, e persistência estruturada.
 
@@ -55,7 +55,7 @@ Desenvolvedor focado no interior de Santa Catarina (Navegantes), unindo tecnolog
 
 ---
 
-### ⚙️ Arquitetura e Desenvolvimento com Automação
+### <img src="https://api.iconify.design/ph/gear-six-fill.svg?color=%23FCA121" width="22" align="center" /> &nbsp; Arquitetura e Desenvolvimento com Automação
 
 Trato as automações e os agentes de IA como parte da equipa: eu especifico as regras de negócio, decido a arquitetura e a segurança, e eles executam as tarefas repetitivas.
 
@@ -95,7 +95,7 @@ graph LR
 
 ---
 
-### 📊 GitHub em Números
+### <img src="https://api.iconify.design/ph/chart-bar-fill.svg?color=%23FCA121" width="22" align="center" /> &nbsp; GitHub em Números
 
 Os dados abaixo são processados dinamicamente para refletir a atividade do repositório.
 
