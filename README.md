@@ -59,14 +59,13 @@ Desenvolvedor focado no interior de Santa Catarina (Navegantes), unindo tecnolog
 
 Trato as automações e os agentes de IA como parte da equipa: eu especifico as regras de negócio, decido a arquitetura e a segurança, e eles executam as tarefas repetitivas.
 
-```mermaid
-graph LR
-    A[1. Extração] --> B[2. Higienização]
-    B --> C[3. Validação POO]
-    C --> D[4. n8n / Agentes]
-    D --> E[5. Supabase]
-    E --> F[6. Interface UI]
-```
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9591df85-3bda-465f-a86f-e157a8745b3c" width="100%" alt="Arquitetura de Pipeline e Automação" />
+</div>
+
+<br>
 
 * **Desenvolvimento guiado por regras de negócio:** Foco em garantir que dados inválidos nunca cheguem ao banco de dados. Utilizo abstrações em POO (`abc.ABC`) e padrão DAO para encapsulamento seguro.
 * **Agentes e Orquestração:** Trabalho com **n8n** para criar fluxos de integração complexos, e integro **Agentes de IA** para análise de dados e inteligência financeira (como aplicado no projeto *Finance Daddy*).
